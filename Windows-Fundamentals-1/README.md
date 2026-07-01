@@ -35,3 +35,9 @@ This lab provided a foundation in Windows administration and introduced core con
 ## Completion Status
 
 Completed
+
+## 🎥 Lab Demonstration
+
+This video demonstrates my completion of the TryHackMe Windows Fundamentals 1 lab and highlights the concepts covered throughout the exercise.
+
+**🎬 Video Walkthrough:** [Watch Here](https://drive.google.com/file/d/1AR02kEN4xJC9LXkBdPHnwv9m_K2Huf3Q/view?usp=sharing)
