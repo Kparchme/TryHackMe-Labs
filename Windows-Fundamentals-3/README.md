@@ -37,3 +37,9 @@ This lab introduced the fundamentals of Windows domain administration and Active
 ## Completion Status
 
 Completed
+
+## 🎥 Lab Demonstration
+
+This video demonstrates my completion of the TryHackMe Windows Fundamentals 3 lab and highlights the Windows security features and defensive concepts covered throughout the exercise.
+
+**🎬 Video Walkthrough:** [Watch Here](https://drive.google.com/file/d/1UkuIpweFEDRETrSASgHXMms2nTjPI5Rv/view?usp=sharing)
