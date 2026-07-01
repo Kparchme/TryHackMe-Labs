@@ -36,3 +36,9 @@ This lab provided an introduction to Security Operations Center workflows and st
 ## Completion Status
 
 Completed
+
+## 🎥 Lab Demonstration
+
+This video demonstrates my completion of the TryHackMe SOC Fundamentals lab and highlights the core concepts of Security Operations Center operations, security monitoring, and incident response.
+
+**🎬 Video Walkthrough:** [Watch Here](https://drive.google.com/file/d/1AuoASNvBBk71NBcTJrqsPzxDlGgcaYDl/view?usp=sharing)
