@@ -40,4 +40,4 @@ Completed
 
 This video demonstrates my completion of the TryHackMe Windows Fundamentals 1 lab and highlights the concepts covered throughout the exercise.
 
-**🎬 Video Walkthrough:** [Watch Here](https://drive.google.com/file/d/1AR02kEN4xJC9LXkBdPHnwv9m_K2Huf3Q/view?usp=sharing)
+**🎬 Video Walkthrough:** [[Watch Here](https://drive.google.com/file/d/1AR02kEN4xJC9LXkBdPHnwv9m_K2Huf3Q/view?usp=sharing)](https://drive.google.com/file/d/1aR02kENqXJC9LXkBdPHnnw9m_K2Huf3Q/view?usp=sharing)
