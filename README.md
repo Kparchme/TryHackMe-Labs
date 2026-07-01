@@ -1,5 +1,5 @@
 # TryHackMe-Labs
-Hands-on TryHackMe labs covering covering networking fundamentals, security operations, and cybersecurity concepts.
+Hands-on TryHackMe labs covering covering windows administration, security operations, and cybersecurity concepts.
 # TryHackMe Cybersecurity Labs
 
 Welcome to my cybersecurity lab portfolio!
@@ -8,19 +8,21 @@ This repository documents my hands-on cybersecurity labs completed through TryHa
 
 ## Completed Labs
 
-- Networking Fundamentals 1
-- Networking Fundamentals 2
-- Networking Fundamentals 3
+- Windows Fundamentals 1
+- Windows Fundamentals 2
+- Windows Fundamentals 3
 - SOC Fundamentals
+*More labs will be added as I continue developing my cybersecurity skills.*
 
 ## Skills Demonstrated
 
-- TCP/IP
-- OSI Model
-- DNS
-- DHCP
-- Routing and Switching
-- Network Devices
+- Windows Operating System
+- Windows Administration
+- Windows File System (NTFS)
+- Windows Registry
+- Windows Event Viewer
+- User Account Control (UAC)
+- Windows Security Features
 - Security Operations Center (SOC)
 - Security Monitoring
 - Threat Detection
