@@ -37,3 +37,9 @@ This lab strengthened my understanding of Windows administration and security by
 ## Completion Status
 
 Completed
+
+## 🎥 Lab Demonstration
+
+This video demonstrates my completion of the TryHackMe Windows Fundamentals 2 lab and highlights the Windows administration tools and security concepts covered throughout the exercise.
+
+**🎬 Video Walkthrough:** [Watch Here](https://drive.google.com/file/d/1SZUa5EHcZ6W5mg6Ukn1OutVO_yusY64y/view?usp=sharing)
