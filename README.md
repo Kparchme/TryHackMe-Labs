@@ -4,8 +4,7 @@ Hands-on TryHackMe labs covering covering windows administration, security opera
 
 Welcome to my cybersecurity lab portfolio!
 
-This repository documents my hands-on cybersecurity labs completed through TryHackMe as I develop practical technical skills and gain hands-on experience in support of my application to the DoD Cyber Apprenticeship Program.
-
+This repository documents my hands-on cybersecurity labs completed through TryHackMe as I develop practical technical skills and gain hands-on experience.
 ## Completed Labs
 
 - Windows Fundamentals 1
